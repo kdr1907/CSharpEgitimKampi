@@ -144,22 +144,22 @@ namespace _08_Methods
             #region örnek uyg
 
 
-            string ExamResult(string student, int exam1, int exam2, int exam3)
-            {
-                int result = (exam1 + exam2 + exam3) / 3;
-                if (result >= 50)
-                {
-                    return student +" isimli Öğrenci sınavı geçti/"+" ortalaması: "+result;
-                }
-                else
-                {
-                    return student + " isimli Öğrenci başarısız oldu/"+" ortalaması: " + result;
-                }
+            //string ExamResult(string student, int exam1, int exam2, int exam3)
+            //{
+            //    int result = (exam1 + exam2 + exam3) / 3;
+            //    if (result >= 50)
+            //    {
+            //        return student +" isimli Öğrenci sınavı geçti/"+" ortalaması: "+result;
+            //    }
+            //    else
+            //    {
+            //        return student + " isimli Öğrenci başarısız oldu/"+" ortalaması: " + result;
+            //    }
 
-            }
+            //}
 
-            Console.WriteLine(ExamResult("Ali", 40, 23, 35));
-            Console.WriteLine(ExamResult("Kerim",86, 55, 35));
+            //Console.WriteLine(ExamResult("Ali", 40, 23, 35));
+            //Console.WriteLine(ExamResult("Kerim",86, 55, 35));
 
             #endregion
 
