@@ -1,6 +1,6 @@
 # 🚀 C# EĞİTİM KAMPI PROJELERİ  
 
-Bu repo, **Murat Yücedağ**'ın eğitmenliğinde gerçekleştirilen **C# Eğitim Kampı** süresince tamamladığım ilk 9 projeyi içermektedir.  
+Bu repo, **Murat Yücedağ**'ın eğitmenliğinde gerçekleştirilen **C# Eğitim Kampı** süresince tamamladığım ilk 10 projeyi içermektedir.  
 Her proje, **C# programlama dilini anlamamı ve uygulama becerimi geliştirmemi sağladı**. Aşağıda her projeye dair teknik detayları bulabilirsiniz.  
 
 ## 📌 Projeler  
@@ -39,3 +39,8 @@ Kullanıcıdan alınan verileri **işleyerek sonuç döndüren fonksiyonlar** ya
 Bu projede **SQL veritabanı bağlantısı** kurarak **veri çekme, ekleme ve güncelleme işlemlerini** gerçekleştirdim.  
 **SqlConnection ve SqlCommand** sınıflarını kullanarak **veritabanı işlemlerini yönetmeyi** öğrendim.  
 Bu projeyle **veri tabanı işlemlerine yönelik önemli deneyimler kazandım**. 💾
+
+### 📍 Proje 10: CRUD İşlemleri (Create, Read, Update, Delete)
+Bu projede CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemlerini öğrendim.
+Bir veritabanı üzerinde temel CRUD operasyonlarını uygulayarak tam bir veri yönetimi senaryosu geliştirdim.
+Bu süreçte Entity Framework ve SQL sorgularını daha verimli kullanmayı öğrendim. ⚡
