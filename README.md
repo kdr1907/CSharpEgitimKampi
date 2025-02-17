@@ -48,7 +48,8 @@ Bu süreçte Entity Framework ve SQL sorgularını daha verimli kullanmayı öğ
 ### 📍 Proje 11: EfTravel İstatistik Paneli
 ![image](https://github.com/user-attachments/assets/9ffd09cf-2ba7-426b-bb3d-8f47ab78eacf)
 
-Bu ekrandaki verileri Entity Framework ve LINQ kullanarak veritabanından alıyorum. Verileri filtreleyip sıralayarak, belirli istatistikleri hesaplıyor ve ekranda gösteriyorum.
-Örneğin, en yüksek kapasiteye sahip turu veya en pahalı turu belirleyip ilgili kutucuklara yerleştiriyorum.
-Bu sayede veriler dinamik olarak güncellenip kullanıcıya sunuluyor.
+Bu projede, Entity Framework ve LINQ kullanarak bir seyahat veritabanındaki verileri sorgulayıp Windows Forms arayüzünde görselleştiren bir istatistik paneli geliştirdim.
+Proje kapsamında toplam lokasyon, kapasite, rehber sayısı gibi genel bilgileri hesaplayıp, en yüksek kapasiteye sahip tur ve en pahalı tur gibi verileri dinamik olarak gösterdim.
+Bu süreçte, veritabanına bağlanma, veri sorgulama ve filtreleme işlemlerini etkin bir şekilde kullanarak, kullanıcı dostu bir arayüz oluşturma deneyimi kazandım.
+Bu çalışma, hem veritabanı yönetimi hem de C# ile uygulama geliştirme becerilerimi geliştirmemi sağladı. 🚀
 
