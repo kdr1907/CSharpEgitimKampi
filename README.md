@@ -44,3 +44,11 @@ Bu projeyle **veri tabanı işlemlerine yönelik önemli deneyimler kazandım**.
 Bu projede CRUD (Oluşturma, Okuma, Güncelleme, Silme) işlemlerini öğrendim.
 Bir veritabanı üzerinde temel CRUD operasyonlarını uygulayarak tam bir veri yönetimi senaryosu geliştirdim.
 Bu süreçte Entity Framework ve SQL sorgularını daha verimli kullanmayı öğrendim. ⚡
+
+### 📍 Proje 11: EfTravel İstatistik Paneli
+![image](https://github.com/user-attachments/assets/9ffd09cf-2ba7-426b-bb3d-8f47ab78eacf)
+
+Bu ekrandaki verileri Entity Framework ve LINQ kullanarak veritabanından alıyorum. Verileri filtreleyip sıralayarak, belirli istatistikleri hesaplıyor ve ekranda gösteriyorum.
+Örneğin, en yüksek kapasiteye sahip turu veya en pahalı turu belirleyip ilgili kutucuklara yerleştiriyorum.
+Bu sayede veriler dinamik olarak güncellenip kullanıcıya sunuluyor.
+
