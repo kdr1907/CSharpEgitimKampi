@@ -27,7 +27,7 @@ namespace _09_DatabaseProject
             tableNumber = Console.ReadLine();
             Console.WriteLine("----------------------------------------------");
 
-            SqlConnection connection = new SqlConnection("Data Source=MSI\\KDRSQL;initial Catalog=EgitimKampiDb;integrated security=true");
+            SqlConnection connection = new SqlConnection("Data Source=--------;initial Catalog=-----------;integrated security=true");
             connection.Open();
             SqlCommand command = new SqlCommand("Select * From TblCategory",connection);
             SqlDataAdapter adapter = new SqlDataAdapter(command);
