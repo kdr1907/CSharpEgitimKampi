@@ -23,7 +23,7 @@ namespace _10_DatabaseCrud
             //Console.Write("Eklemek istediğiniz kategori adı: ");
             //string categoryName = Console.ReadLine();
 
-            //SqlConnection connection=new SqlConnection("Data Source=MSI\\KDRSQL;initial catalog=EgitimKampiDb;integrated security=true");
+            //SqlConnection connection=new SqlConnection("Data Source=------------;initial catalog=-----------;integrated security=true");
             //connection.Open();
             //SqlCommand command = new SqlCommand("insert into TblCategory (CategoryName) values (@p1)", connection);
             //command.Parameters.AddWithValue("@p1", categoryName);
@@ -44,7 +44,7 @@ namespace _10_DatabaseCrud
             //Console.Write("Ürün fiyatı: ");
             //productPrice = decimal.Parse(Console.ReadLine());
 
-            //SqlConnection connection = new SqlConnection("Data Source = MSI\\KDRSQL;initial catalog=EgitimKampiDb;integrated security=true");
+            //SqlConnection connection = new SqlConnection("Data Source = ----------;initial catalog=----------------;integrated security=true");
             //connection.Open();
             //SqlCommand command = new SqlCommand("insert into TblProduct (ProductName,ProductPrice,ProductStatus) values (@productName,@productPrice,@productStatus)", connection);
             //command.Parameters.AddWithValue("@productName",productName);
@@ -61,7 +61,7 @@ namespace _10_DatabaseCrud
 
             #region ürün listeleme işlemi
 
-            //SqlConnection connection = new SqlConnection("Data Source = MSI\\KDRSQL;initial catalog=EgitimKampiDb;integrated security=true");
+            //SqlConnection connection = new SqlConnection("Data Source = ------------;initial catalog=----------;integrated security=true");
             //connection.Open();
             //SqlCommand command = new SqlCommand("Select * From TblProduct", connection);
             //SqlDataAdapter adapter = new SqlDataAdapter(command);
@@ -94,7 +94,7 @@ namespace _10_DatabaseCrud
 
 
 
-            //SqlConnection connection = new SqlConnection("Data Source=MSI\\KDRSQL;initial Catalog=EgitimKampiDb;integrated security=true");
+            //SqlConnection connection = new SqlConnection("Data Source=-------------;initial Catalog=----------;integrated security=true");
             //connection.Open();
 
             //SqlCommand command = new SqlCommand("Delete From TblProduct Where ProductId=@productId",connection);
@@ -112,7 +112,7 @@ namespace _10_DatabaseCrud
 
             #region ürün güncelleme işlmei
 
-            //SqlConnection connection = new SqlConnection("Data Source=MSI\\KDRSQL;initial Catalog=EgitimKampiDb;integrated security=true");
+            //SqlConnection connection = new SqlConnection("Data Source=------------;initial Catalog=-------------;integrated security=true");
             //connection.Open();
 
             //Console.Write("Güncellenecek ürün id: ");
